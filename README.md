@@ -1,2 +1,0 @@
-# FlappyBird-Comp
-# FlappyBird-Comp
